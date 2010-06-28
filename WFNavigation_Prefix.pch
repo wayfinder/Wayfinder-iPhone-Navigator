@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'WFNavigation' target in the 'WFNavigation' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "UIApplication-Additions.h" 
+#endif

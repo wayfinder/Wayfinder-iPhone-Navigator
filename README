@@ -1,0 +1,7 @@
+This is the repository for the Navigator client developed by Wayfinder.
+It is released under the BSD license.
+
+To build the navigator client you also need to build the libraries for Cpp-Core-v2, 
+since they contain the core engine for the client.
+
+More information about the client and how to build it can be found at oss.wayfinder.com
